@@ -21,10 +21,13 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,py,react,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,py,react,figma,vscode&perline=10" />
   </a>
 </p>
 
