@@ -11,7 +11,7 @@
 ![TawheedTariq](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Backend development
 - 📫 How to reach me tawheedtariq090@gmail.com
 
 
@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,py,react,figma,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,py,react,nodejs,expressjs,figma,vscode&perline=10" />
   </a>
 </p>
 
