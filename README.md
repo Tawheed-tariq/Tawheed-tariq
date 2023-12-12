@@ -4,7 +4,7 @@
 <!--- 👋 Hi, I’m @Tawheed-tariq-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Tawheed tariq</h1></summary>
+    <summary><h1 align="center" style="display: inline-block">Hi 👋, I'm Tawheed tariq</h1></summary>
   </ul>
 </div>
 
@@ -18,7 +18,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 align="center" style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,py,react,nodejs,expressjs,figma,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,sass,py,react,nodejs,expressjs,figma,git,vscode&perline=10" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 align="center" style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 <!--icons and links-->
