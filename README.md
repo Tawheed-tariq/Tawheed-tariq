@@ -32,6 +32,8 @@
 </p>
 
 
+![Tawheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawheed-tariq&show_icons=true&theme=transparent&bg_color=000000)
+
 
 
 <!-- Connect with me -->
