@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in everything :sweat_smile:
 - 📫 How to reach me tawheedtariq090@gmail.com
-- wanna know more about me [Visit my portfolio](http://tavaheed.natlify.app)
+- wanna know more about me [Visit my portfolio](http://tavaheed.netlify.app)
 
 
 
