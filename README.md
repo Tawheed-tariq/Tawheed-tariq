@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </div>
 <!--- 👋 Hi, I’m @Tawheed-tariq-->
-<div id="user-content-toc">
+<div align="center" id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center" style="display: inline-block">Hi 👋, I'm Tawheed tariq</h1></summary>
+    <summary><h1 align="center" style="display: inline-block">Salam, I'm Tawheed tariq</h1></summary>
   </ul>
 </div>
 
@@ -16,7 +16,7 @@
 
 
 
-<div id="user-content-toc">
+<div align="center" id="user-content-toc">
   <ul align="center">
     <summary><h2 align="center" style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
@@ -40,7 +40,7 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div align="center" id="user-content-toc">
   <ul align="center">
     <summary><h2 align="center" style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
