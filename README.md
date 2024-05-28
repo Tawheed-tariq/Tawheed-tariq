@@ -23,13 +23,14 @@
 </div>
 
 
-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,sass,py,react,redux,firebase,nodejs,expressjs,jquery,mongodb,redis,figma,git,github,linux,postman,latex,markdown,mysql,sqlite,docker,scikitlearn,tensorflow,netlify,vscode,bash&perline=10" />
   </a>
 </p>
+
+![network](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tawheed-tariq&theme=default)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tawheed-tariq&" alt="Tawheed-tariq" />
 
