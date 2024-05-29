@@ -8,7 +8,9 @@
   </ul>
 </div>
 
-![TawheedTariq](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div align='center'>
+  <img src='https://github.com/ip681/ip681/blob/main/analyst.gif'/>
+</div>
 
 - 👀 I’m interested in everything :sweat_smile:
 - 📫 How to reach me tawheedtariq090@gmail.com
