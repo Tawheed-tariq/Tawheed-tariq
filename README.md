@@ -13,6 +13,7 @@
 </div>
 
 - 👀 I’m interested in everything :sweat_smile:
+- Low commit frequency == Exams
 - 📫 How to reach me tawheedtariq090@gmail.com
 - wanna know more about me [Visit my portfolio](http://tavaheed.netlify.app)
 
