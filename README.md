@@ -36,8 +36,8 @@
 ![network](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tawheed-tariq&theme=default)
 
 
+
 ![Tawheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawheed-tariq&show_icons=true&theme=transparent&bg_color=000000)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tawheed-tariq&show_icons=true&locale=en&layout=compact" alt="Tawheed-tariq" />
 
 
 
