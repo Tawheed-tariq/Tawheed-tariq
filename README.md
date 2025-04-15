@@ -8,6 +8,8 @@
   </ul>
 </div>
 
+---
+
 <table>
   <tr>
     <td width="60%">
@@ -25,6 +27,8 @@
   </tr>
 </table>
 
+---
+
 <div align="center" id="user-content-toc">
   <ul align="center">
     <summary><h2 align="center" style="display: inline-block">👨🏻‍💻 Technologies That I Know </h2></summary>
@@ -37,6 +41,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,sass,py,react,redux,firebase,nodejs,expressjs,jquery,mongodb,redis,figma,git,github,linux,postman,latex,markdown,mysql,sqlite,docker,scikitlearn,tensorflow,netlify,vscode,bash&perline=10" />
   </a>
 </p>
+
+---
 
 <div align="center">
   <h2>📊 GitHub Stats </h2>
@@ -53,6 +59,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <!-- Connect with me -->
 <div align="center" id="user-content-toc">
